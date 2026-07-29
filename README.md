@@ -97,12 +97,77 @@ The project followed a structured analytical workflow.
 
 ## Key Findings
 
+The analysis identified several trends across the Falls service between January and June 2025.
+
+- Referral demand increased throughout the reporting period.
+- Average waiting time increased as referral demand increased.
+- Completion rates declined while DNA rates increased.
+- Workload was increasingly concentrated on one clinician, suggesting an imbalance in referral allocation.
+- The available data supported further investigation into workload distribution before recommending operational changes.
+
 ## Limitations
+
+The analysis was limited by the available operational dataset.
+
+- Referral complexity was not available.
+- Staff absence and annual leave were not included.
+- Clinic capacity and appointment availability were unavailable.
+- Patient preference for specific clinicians could not be assessed.
+- The dataset covered January to June 2025 only.
+- Findings should therefore be used to guide further investigation rather than determine causation.
 
 ## Recommendations
 
+Based on the analysis, the following investigations are recommended before implementing operational changes.
+
+- Review referral allocation across clinicians.
+- Assess staffing capacity and Whole Time Equivalent (WTE) allocation.
+- Investigate referral complexity to determine whether workload is distributed appropriately.
+- Review clinic capacity and appointment availability.
+- Continue monitoring operational KPIs to evaluate future service performance.
+
 ## Dashboard
+
+An interactive Tableau dashboard will accompany this project.
+
+The dashboard will include:
+
+- KPI summary cards
+- Monthly performance trends
+- Referral and appointment activity
+- Completion and DNA rates
+- Clinician workload analysis
+- Interactive filters for month, clinician and service
+
+Dashboard screenshots and Tableau workbook will be uploaded once completed.
 
 ## Skills Demonstrated
 
+### Technical Skills
+
+- SQL
+- Data Validation
+- Data Cleaning
+- Relational Data Analysis
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- KPI Reporting
+
+### Analytical Skills
+
+- Business Analysis
+- Operational Performance Analysis
+- Root Cause Investigation
+- Stakeholder Reporting
+- Evidence-Based Decision Making
+- Process Improvement
+
 ## Future Improvements
+
+Future enhancements to this project include:
+
+- Develop an interactive Tableau dashboard.
+- Extend the analysis using Python for automated data preparation.
+- Incorporate additional operational data such as staff absence and referral complexity.
+- Compare performance against previous years to identify long-term trends.
