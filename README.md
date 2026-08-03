@@ -171,3 +171,15 @@ Future enhancements to this project include:
 - Extend the analysis using Python for automated data preparation.
 - Incorporate additional operational data such as staff absence and referral complexity.
 - Compare performance against previous years to identify long-term trends.
+## Repository Structure
+
+```text
+nhs-falls-service-performance-analysis/
+
+README.md
+
+sql/
+dashboard/
+images/
+reports/
+```
