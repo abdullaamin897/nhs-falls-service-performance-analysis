@@ -1,3 +1,10 @@
 # Images
 
-This folder contains screenshots, diagrams and other images used throughout the project.
+This folder contains supporting visuals used throughout the project.
+
+Contents will include:
+
+- Dashboard screenshots
+- Entity Relationship Diagram
+- Workflow diagrams
+- Additional project visuals
